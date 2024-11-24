@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import IMCCalculado from './src/components/calculaIMC.jsx'
+import IMCCalculado from './components/calculaIMC.jsx'
 import './App.css'
 
 function App() {
